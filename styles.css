@@ -1,11 +1,11 @@
 :root {
-  --ink: #171184;
-  --paper: #938876;
-  --cream: #d8e8ed;
-  --blood: #a12222;
-  --gold: #c9a84c;
-  --ghost: #16406b;
-  --dim: #0c0707;
+  --ink: #031622f6;
+  --paper: #62c061;
+  --cream: #20373e;
+  --blood: #ff1e1e;
+  --gold: #eaaf0d;
+  --ghost: #87c3ff;
+  --dim: #ff2424;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
